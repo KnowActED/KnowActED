@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently learning how to more efficiently use AI for coding😄.
+- I'm currently learning how to more efficiently use AI for coding. How powerful AI is depends on how accurately and efficiently we use it.😄
 - Pronouns: he/him
